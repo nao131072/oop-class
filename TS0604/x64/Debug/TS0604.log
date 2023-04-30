@@ -1,0 +1,13 @@
+﻿  VecNf.cpp
+D:\cs0806117\C++\CS1010301W10\TS0604\VecNf.h(12,13): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\cs0806117\C++\CS1010301W10\TS0604\VecNf.cpp(89,33): warning C4244: '引數': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+  main.cpp
+D:\cs0806117\C++\CS1010301W10\TS0604\VecNf.h(12,13): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼...
+D:\cs0806117\C++\CS1010301W10\TS0604\VecNf.cpp(31): warning C4715: 'VecNf::operator[]': 不是所有控制路徑都傳回值
+D:\cs0806117\C++\CS1010301W10\TS0604\VecNf.cpp(29): warning C4172: 傳回區域變數或暫存的位址: result
+  TS0604.vcxproj -> D:\cs0806117\C++\CS1010301W10\x64\Debug\TS0604.exe
