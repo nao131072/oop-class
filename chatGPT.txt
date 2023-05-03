@@ -1,0 +1,7 @@
+// Intent: To calculate the sum of two numbers
+// Pre: Two integer number
+// Post: The function returns the sum of two numbers
+int sum(int a, int b){
+    return a + b; //add a and b and return
+}
+請參考上列程式碼的註解格式(每個function都需要pre, post, intent) ，並在下方的已完成之程式碼中以範例格式添加註解

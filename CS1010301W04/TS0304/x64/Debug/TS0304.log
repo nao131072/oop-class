@@ -1,0 +1,3 @@
+﻿  TS0304.cpp
+D:\cs0806117\C++\CS1010301W04\TS0304\TS0304.cpp(27,15): warning C4244: '=': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+  TS0304.vcxproj -> D:\cs0806117\C++\CS1010301W04\x64\Debug\TS0304.exe

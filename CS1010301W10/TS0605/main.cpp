@@ -12,7 +12,6 @@ int main() {
 
 	Diary::NewDay("0102");
 	Creature unknownB("UB", unknownA);
-	Diary::NewDay("0103");
 	unknownB["leg"] += 26;
 	unknownA.PrintLog();
 
@@ -25,5 +24,4 @@ int main() {
 	unknownA["leg"] += 6;
 	unknownA["wing"] += 4;
 	unknownA.PrintLog();
-
 }

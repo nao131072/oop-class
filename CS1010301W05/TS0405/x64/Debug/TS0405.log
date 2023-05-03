@@ -1,0 +1,3 @@
+﻿  TS0405.cpp
+D:\cs0806117\C++\CS1010301W05\TS0405\TS0405.cpp(19,14): warning C4244: '正在初始化': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0405.vcxproj -> D:\cs0806117\C++\CS1010301W05\x64\Debug\TS0405.exe

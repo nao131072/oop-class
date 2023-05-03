@@ -1,0 +1,5 @@
+﻿  source.cpp
+D:\cs0806117\C++\CS1010301W06\TS0504\source.cpp(46,5): warning C4804: '*=': 作業中不安全的使用類型 'bool'
+D:\cs0806117\C++\CS1010301W06\TS0504\source.cpp(60,5): warning C4804: '*=': 作業中不安全的使用類型 'bool'
+D:\cs0806117\C++\CS1010301W06\TS0504\source.cpp(78,6): warning C4804: '*=': 作業中不安全的使用類型 'bool'
+  TS0504.vcxproj -> D:\cs0806117\C++\CS1010301W06\x64\Debug\TS0504.exe

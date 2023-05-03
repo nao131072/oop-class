@@ -1,0 +1,3 @@
+﻿  TS0403.cpp
+D:\cs0806117\C++\CS1010301W05\TS0403\TS0403.cpp(29,16): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0403.vcxproj -> D:\cs0806117\C++\CS1010301W05\x64\Debug\TS0403.exe
