@@ -1,8 +1,8 @@
 /***********************************************************************
- * File: source.cpp
+ * File: main.cpp
  * Author: 陳尚澤
- * Create Date: 2023/04/1
- * Editor: 陳尚澤 
- * Update Date: 2023/04/1
- * Description: Sudoku Checker
+ * Create Date: 2023/05/08
+ * Editor: 陳尚澤
+ * Update Date: 2023/05/08
+ * Description: 
 ***********************************************************************/

@@ -1,0 +1,10 @@
+﻿  main.cpp
+password.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Authenticate::getPassword(void)" (?getPassword@Authenticate@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) 已在 main.obj 中定義過了
+password.obj : error LNK2005: "void __cdecl Authenticate::inputPassword(void)" (?inputPassword@Authenticate@@YAXXZ) 已在 main.obj 中定義過了
+password.obj : error LNK2005: "bool __cdecl Authenticate::isValid_password(void)" (?isValid_password@Authenticate@@YA_NXZ) 已在 main.obj 中定義過了
+password.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Authenticate::password" (?password@Authenticate@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 main.obj 中定義過了
+user.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Authenticate::getUserName(void)" (?getUserName@Authenticate@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) 已在 main.obj 中定義過了
+user.obj : error LNK2005: "void __cdecl Authenticate::inputUserName(void)" (?inputUserName@Authenticate@@YAXXZ) 已在 main.obj 中定義過了
+user.obj : error LNK2005: "bool __cdecl Authenticate::isValid_username(void)" (?isValid_username@Authenticate@@YA_NXZ) 已在 main.obj 中定義過了
+user.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Authenticate::username" (?username@Authenticate@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 main.obj 中定義過了
+D:\cs0806117\C++\oop-class\CS3005301W11\x64\Debug\TS0902.exe : fatal error LNK1169: 找到有一或多個已定義的符號
